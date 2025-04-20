@@ -65,11 +65,8 @@ npm start
 demo-mongodb/
 ├── models/          # Các model MongoDB
 ├── routes/          # Các route API
-├── controllers/     # Logic xử lý
-├── config/          # Cấu hình
 ├── public/          # Assets tĩnh
-├── views/           # Templates
-├── app.js           # File khởi động ứng dụng
+├── server.js           # File khởi động ứng dụng
 ├── package.json
 └── README.md
 ```
